@@ -2,7 +2,7 @@
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <outboundMessages>
         <fullName>OBM_Account</fullName>
-        <apiVersion>60.0</apiVersion>
+        <apiVersion>64.0</apiVersion>
         <endpointUrl>https://7df8ee47-55fe-4d35-a9d0-50cb0d93dbdf.mock.pstmn.io/outboundMessageListener</endpointUrl>
         <fields>AccountNumber</fields>
         <fields>AccountSource</fields>
@@ -54,7 +54,7 @@
         <fields>Tier</fields>
         <fields>Type</fields>
         <fields>Website</fields>
-        <includeSessionId>true</includeSessionId>
+        <includeSessionId>false</includeSessionId>
         <integrationUser>admin@arc101.15389.com</integrationUser>
         <name>OBM Account</name>
         <protected>false</protected>
