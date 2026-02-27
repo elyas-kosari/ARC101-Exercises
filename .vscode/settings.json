@@ -11,5 +11,5 @@
 	"salesforcedx-vscode-core.push-or-deploy-on-save.preferDeployOnSave": false,
 	"salesforcedx-vscode-core.push-or-deploy-on-save.showOutputPanel": true,
 	"xml.preferences.showSchemaDocumentationType": "none",
-	"salesforce.einsteinForDevelopers.enable": false
+	"salesforce.einsteinForDevelopers.enable": true
 }
